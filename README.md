@@ -1,10 +1,9 @@
 # NPSPImport-Excel-Formatter
-We have developed an Excel spreadsheet with an embedded VisualBasic program that makes it easier to get contact data into import-ready format.
-
-# Project Name
-Please replace with your projects name
+This Community Sprint project is to market, distribute and improve an Excel tool that helps group contacts into households in a format ready for NPSP Data Import.
 
 # Project Overview
+When it’s time to migrate data from a legacy system, how do we get Contacts into the same Household together? In order to use NPSP's Data Import records to group contacts into households, the input file must be in a format with two contacts in the same row, while source datasets typically come with one contact per row. We have developed an Excel spreadsheet with an embedded VisualBasic program that makes it easier to get contact data into import-ready format. Help spread the word about this tool, support and standardize its distribution and improve its functionality. Here is a demo of the tool: https://youtu.be/NGU43QEsObE
+
 ## Vision & Goals
 Please replace with your projects vision.
 * Goal 1
@@ -14,46 +13,25 @@ Please replace with your projects vision.
 Please replace with Nonprofit, Education, or Other (if Other, explain further)
 
 ## Hub Group Link
-Please replace with the URL for your Power of Us Hub and/or Trailblazer Community group.
+https://powerofus.force.com/s/group/0F97y00000007fpCAA/sprint-project-household-formatter
 
 # Current Project Team & Accomplishments
 
-Full Name            | Team Role     | Github Username                                    | Working Group? 
+Full Name            | Team Role     | Github Username                                    |Role
 ------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Kathy Olney          | Group Leader  | https://github.com/KathOlney)                      | Developer
+Dodi Friedenberg     | Group Leader  |                                                    | Chief Evangelist
 
-## Sprint (DATE)
+## Sprint (June 9-10 2021)
 
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-# Past Project Teams
-We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
-
-## Sprint (DATE):
-
-### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
-
-## Sprint (DATE):
-
-### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
 
 
 # Project Resources and Documentation
 Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+
+Demo video goes here
 
 # Future Contributions (AKA what were you unable to finish at the Sprint)
 Replace with the goals your team would like to continue working on next time.
