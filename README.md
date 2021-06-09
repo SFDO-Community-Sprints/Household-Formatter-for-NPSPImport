@@ -10,7 +10,7 @@ When might I use this tool?
 There is a tool available called the NPSP Data Importer which will create Contacts and Households from a template. 
 
 What's the problem?
-For households more than one contact, the NPSP Data Importer template requires that two household members be in the same row, with the primary household member listed first. However, when exporting data from external systems or when 
+- For households more than one contact, the NPSP Data Importer template requires that two household members be in the same row, with the primary household member listed first. However, when exporting data from external systems or when 
 
 
 ## Vision & Goals
