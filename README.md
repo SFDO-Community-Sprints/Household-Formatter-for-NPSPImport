@@ -4,6 +4,15 @@ This Community Sprint project is to market, distribute and improve an Excel tool
 # Project Overview
 When it’s time to migrate data from a legacy system, how do we get Contacts into the same Household together? In order to use NPSP's Data Import records to group contacts into households, the input file must be in a format with two contacts in the same row, while source datasets typically come with one contact per row. We have developed an Excel spreadsheet with an embedded VisualBasic program that makes it easier to get contact data into import-ready format. Help spread the word about this tool, support and standardize its distribution and improve its functionality. Here is a demo of the tool: https://youtu.be/NGU43QEsObE
 
+## Elevator Speech: Use Cases for the XX Tool
+When might I use this tool?
+- I have external data containing household members that I want to bring into NPSP.
+There is a tool available called the NPSP Data Importer which will create Contacts and Households from a template. 
+
+What's the problem?
+For households more than one contact, the NPSP Data Importer template requires that two household members be in the same row, with the primary household member listed first. However, when exporting data from external systems or when 
+
+
 ## Vision & Goals
 Mission statement: 
 - What do we do?
