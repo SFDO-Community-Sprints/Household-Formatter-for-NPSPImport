@@ -30,9 +30,9 @@ Demo video goes here
 
 
 # Current Project Team                   
-Kathy Olney           (Group Leader) 
-Dodi Friedenberg      (Group Leader) 
-Sheeba Thukral  
+Kathy Olney           (Group Leader)    
+Dodi Friedenberg      (Group Leader)     
+Sheeba Thukral    
 Mechelle Norton  
 Rohne Sathianarayanan  
 Sowmya Bhat  
