@@ -35,7 +35,8 @@ Dodi Friedenberg      (Group Leader)
 Sheeba Thukral    
 Mechelle Norton  
 Rohne Sathianarayanan  
-Sowmya Bhat  
+Sowmya Bhat   
+Jodi Nemser-Abrahams
 
 
 # Project History
