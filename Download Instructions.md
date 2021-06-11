@@ -11,15 +11,17 @@ https://github.com/SFDO-Community-Sprints/NPSPImport-Excel-Formatter
 ---
 
 3.	Select Download
-
  
+![Download](/images/downloadInstructions/download.png?raw=true "Click on Download button")
 
-
+---
+ 
 4.	Open the downloaded xlsm file. If prompted, enable editing
-
  
+![Enable Editing](/images/downloadInstructions/enableEditing.png?raw=true "Select Enable Editing button in warning message")
 
-
+---
+ 
 5.	If prompted, enable macros. Macros must be enabled for the tool to work. Macros may also be enabled through File > Options > Trust Center > Trust Center Settings > Macro Settings
-
  
+![Enable Macros](/images/downloadInstructions/enableMacros.png?raw=true "Select Enable Content button in warning message")
