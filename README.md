@@ -23,9 +23,11 @@ https://powerofus.force.com/s/group/0F97y00000007fpCAA/sprint-project-household-
 
 
 # Project Resources and Documentation
-Download instructions
+[Download instructions](https://github.com/SFDO-Community-Sprints/NPSPImport-Excel-Formatter/blob/readme-update/Download%20Instructions.md)
 
-Demo video goes here
+[Demo video for those already familiar with NPSP Data Importer](https://youtu.be/vOTE5IbZwd8)
+
+[Demo video for those new to NPSP Data Importer](https://youtu.be/FWnHyz7KrCc)
 
 
 
